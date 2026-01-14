@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Myitkyina Guide</string>
+    <string name="title_activity_main">Myitkyina Guide</string>
+    <string name="package_name">com.myitkyina.guide</string>
+    <string name="custom_url_scheme">com.myitkyina.guide</string>
+</resources>

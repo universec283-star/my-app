@@ -1,0 +1,18 @@
+
+{
+  "name": "မြစ်ကြီးနား လမ်းညွှန်",
+  "short_name": "Myitkyina",
+  "description": "မြစ်ကြီးနားမြို့၏ Smart GPS လမ်းညွှန်မြေပုံ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/854/854878.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

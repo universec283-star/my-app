@@ -1,0 +1,6 @@
+{
+  "appId": "com.myitkyina.guide",
+  "appName": "Myitkyina Guide",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
